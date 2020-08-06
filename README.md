@@ -1,8 +1,8 @@
 ## Hi I'm Emma K Alexandra
 I'm a proudly trans developer living in Washington, DC and working in Media.
 
-### I mostly work on Swift projects here and professionally I'm a JavaScript and Python Developer.
-- I currently work at Bloomberg Industry Group on [Bloomberg Law News][blawnews]!
+### I mostly work on Swift projects here and professionally I'm a JavaScript and Python Developer
+- I currently work at Bloomberg Industry Group on [Bloomberg Law News][blawnews]
 - I run a [blog][blog]
 - I'm a parent of one amazing kiddo
 - I want the iPad to become the development platform of the future
