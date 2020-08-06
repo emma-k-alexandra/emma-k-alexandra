@@ -1,4 +1,4 @@
-### Hi I'm Emma K Alexandra
+## Hi I'm Emma K Alexandra
 I'm a proudly trans developer living in Washington, DC and working in Media.
 
 ### I mostly work on Swift projects here and professionally I'm a JavaScript and Python Developer.
@@ -19,6 +19,11 @@ I'm a proudly trans developer living in Washington, DC and working in Media.
 - [Facebook][facebook]
 - [LinkedIn][linkedin]
 - [TikTok][tiktok]
+- [Blog][blog]
+
+### Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
  
 [blawnews]: https://news.bloomberglaw.com
 [blog]: https://emma.sh/blog
