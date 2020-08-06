@@ -23,6 +23,10 @@ I'm a proudly trans developer living in Washington, DC and working in Media.
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Write It Yourself](https://emma.sh/blog/2020/7/30/write-it-yourself)
+- [Swift's SingleValueDecodingContainer and JSON arrays](https://emma.sh/blog/2020/7/17/swift-singlevaluedecodingcontainer)
+- [Sick? Get Lost](https://emma.sh/blog/2020/6/27/sick-get-lost)
+- [YOU NEED NEW MEDS](https://emma.sh/blog/2020/6/17/you-need-new-meds)
 <!-- BLOG-POST-LIST:END -->
  
 [blawnews]: https://news.bloomberglaw.com
