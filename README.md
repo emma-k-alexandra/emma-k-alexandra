@@ -1,19 +1,21 @@
 ### Hi I'm Emma K Alexandra
 I'm a proudly trans developer living in Washington, DC and working in Media.
 
-## I mostly work on Swift projects here and professionally I'm a JavaScript and Python Developer.
+### I mostly work on Swift projects here and professionally I'm a JavaScript and Python Developer.
 - I currently work at Bloomberg Industry Group on [Bloomberg Law News][blawnews]!
 - I run a [blog][blog]
+- I'm a parent of one amazing kiddo
+- I want the iPad to become the development platform of the future
+- 2020 Goal: Release more projects to the public
 
-
-## Current Projects
+### Current Projects
 - [Should I Run][shouldirun], an iOS app for the DC Metro.
 - _Secret iOS App Project_
 - [RTree][rtree]
 - [WMATA][wmata]
 - Backlog of 5 unreleased packages related to databases and Swift's [`Codable`][codable] Protocol
 
-## Social Media
+### Social Media
 - [Facebook][facebook]
 - [LinkedIn][linkedin]
 - [TikTok][tiktok]
