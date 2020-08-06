@@ -10,7 +10,7 @@ I'm a proudly trans developer living in Washington, DC and working in Media.
 
 ### Current Projects
 - [Should I Run][shouldirun], an iOS app for the DC Metro.
-- _Secret iOS App Project_
+- _Secret iOS App_
 - [RTree][rtree]
 - [WMATA][wmata]
 - Backlog of 5 unreleased packages related to databases and Swift's [`Codable`][codable] Protocol and SwiftUI
