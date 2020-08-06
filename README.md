@@ -13,7 +13,7 @@ I'm a proudly trans developer living in Washington, DC and working in Media.
 - _Secret iOS App Project_
 - [RTree][rtree]
 - [WMATA][wmata]
-- Backlog of 5 unreleased packages related to databases and Swift's [`Codable`][codable] Protocol
+- Backlog of 5 unreleased packages related to databases and Swift's [`Codable`][codable] Protocol and SwiftUI
 
 ### Social Media
 - [Facebook][facebook]
