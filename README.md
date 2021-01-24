@@ -6,7 +6,7 @@ I'm a proudly trans developer living in Washington, DC and working in Media.
 - I run a [blog][blog]
 - I'm a parent of one amazing kiddo
 - I want the iPad to become the development platform of the future
-- 2020 Goal: Release more projects to the public
+- 2021 Goal: Release more projects to the public
 
 ### Current Projects
 - [Should I Run][shouldirun], an iOS app for the DC Metro.
@@ -20,6 +20,7 @@ I'm a proudly trans developer living in Washington, DC and working in Media.
 - [LinkedIn][linkedin]
 - [TikTok][tiktok]
 - [Blog][blog]
+- [Medium][medium]
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -38,3 +39,4 @@ I'm a proudly trans developer living in Washington, DC and working in Media.
 [facebook]: https://www.facebook.com/emmakalexandra
 [linkedin]: https://www.linkedin.com/in/emmakalexandra/
 [tiktok]: https://vm.tiktok.com/Jj459aN/
+[medium]: https://emmakalexandra.medium.com
