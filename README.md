@@ -17,7 +17,6 @@ I'm a proudly trans developer living in Washington, DC and working in Media.
 
 ### Social Media
 - [LinkedIn][linkedin]
-- [Blog][blog]
 - [Medium][medium]
 
 ### Recent Blog Posts
@@ -34,7 +33,5 @@ I'm a proudly trans developer living in Washington, DC and working in Media.
 [rtree]: https://github.com/emma-k-alexandra/RTree
 [wmata]: https://github.com/emma-k-alexandra/WMATA.swift
 [codable]: https://developer.apple.com/documentation/swift/codable
-[facebook]: https://www.facebook.com/emmakalexandra
 [linkedin]: https://www.linkedin.com/in/emmakalexandra/
-[tiktok]: https://vm.tiktok.com/Jj459aN/
 [medium]: https://emmakalexandra.medium.com
