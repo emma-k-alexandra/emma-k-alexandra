@@ -3,22 +3,20 @@ I'm a proudly trans developer living in Washington, DC and working in Media.
 
 ### I mostly work on Swift projects here and professionally I'm a JavaScript and Python Developer
 - I currently work at Bloomberg Industry Group on [Bloomberg Law News][blawnews]
-- I run a [blog][blog]
+- I post on [Medium][medium]
 - I'm a parent of one amazing kiddo
 - I want the iPad to become the development platform of the future
-- 2021 Goal: Release more projects to the public
+- 2022 Goal: Release more projects to the public
 
 ### Current Projects
 - [Should I Run][shouldirun], an iOS app for the DC Metro.
 - _Secret iOS App_
+- [WMATA.swift][wmata]
 - [RTree][rtree]
-- [WMATA][wmata]
 - Backlog of 5 unreleased packages related to databases and Swift's [`Codable`][codable] Protocol and SwiftUI
 
 ### Social Media
-- [Facebook][facebook]
 - [LinkedIn][linkedin]
-- [TikTok][tiktok]
 - [Blog][blog]
 - [Medium][medium]
 
@@ -31,7 +29,7 @@ I'm a proudly trans developer living in Washington, DC and working in Media.
 <!-- BLOG-POST-LIST:END -->
  
 [blawnews]: https://news.bloomberglaw.com
-[blog]: https://emma.sh/blog
+[medium]: https://emmakalexandra.medium.com
 [shouldirun]: https://apps.apple.com/us/app/should-i-run-dc-metro/id1316762644
 [rtree]: https://github.com/emma-k-alexandra/RTree
 [wmata]: https://github.com/emma-k-alexandra/WMATA.swift
