@@ -4,16 +4,13 @@ I'm a proudly trans developer living in Washington, DC and working in Media.
 ### I mostly work on Swift projects here and professionally I'm a JavaScript and Python Developer
 - I currently work at Bloomberg Industry Group on [Bloomberg Law News][blawnews]
 - I post on [Medium][medium]
-- I'm a parent of one amazing kiddo
-- I want the iPad to become the development platform of the future
+- Check out [my photography](https://www.flickr.com/photos/157881463@N08/)
 - 2022 Goal: Release more projects to the public
 
 ### Current Projects
 - [Should I Run][shouldirun], an iOS app for the DC Metro.
-- _Secret iOS App_
 - [WMATA.swift][wmata]
-- [RTree][rtree]
-- Backlog of 5 unreleased packages related to databases and Swift's [`Codable`][codable] Protocol and SwiftUI
+- Several unreleased projects
 
 ### Social Media
 - [LinkedIn][linkedin]
