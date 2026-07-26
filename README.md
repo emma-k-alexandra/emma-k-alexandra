@@ -3,7 +3,6 @@ I'm a proudly trans developer living in Washington, DC and working in Media.
 
 ### I mostly work on Swift projects here and professionally I'm a JavaScript and Python Developer
 - I currently work at Bloomberg Industry Group on [Bloomberg Law News][blawnews]
-- I post on [Medium][medium]
 - Check out [my photography](https://www.flickr.com/photos/157881463@N08/)
 
 ### Current Projects
